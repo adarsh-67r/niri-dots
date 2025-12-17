@@ -15,4 +15,4 @@ Before using these dotfiles, make sure you have:
 ## 🙏 Credits
 
 - [niri](https://github.com/YaLTeR/niri) by YaLTeR
-- [DankMaterialShell](https://github.com/dankerk/dankmaterialshell)
+- [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
